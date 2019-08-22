@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cucumber-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cucumber-java-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cucumber-junit-1.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cucumber-jvm-deps-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/cucumber-reporting-0.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/pdfbox-1.2.0.jar"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/selendroid-standalone-0.17.0-with-dependencies.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Jars/selenium-java-3.4.0.zip"/>
+	<classpathentry kind="lib" path="D:/Jars/Jars2/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
