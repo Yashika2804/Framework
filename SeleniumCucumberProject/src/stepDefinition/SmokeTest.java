@@ -48,6 +48,11 @@ public class SmokeTest {
 	   driver.findElement(By.id("pass")).sendKeys(password);
 
 	}
+
+	@When("^I do this$")
+	public void I_do_this() throws Throwable {
+	    
+	}
 	
 	@Then("^user should be able to login successfully$")
 	public void user_should_be_able_to_login_successfully() throws Throwable {
